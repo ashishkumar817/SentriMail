@@ -1,4 +1,4 @@
-# 🛡️ AI-Driven Phishing Email Detection
+# 🛡️ SentriMail AI-Driven Phishing Email Detection
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -255,6 +255,7 @@ No license is currently included. Add an appropriate open-source license before 
 ## 👨‍💻 Author
 
 Ashish Kumar
+
 GitHub: @ashishkumar817
 
 Developed as an AI and Machine Learning project for detecting phishing emails using Natural Language Processing.
