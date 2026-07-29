@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Dataset
+phishing_email.csv
+
+# Trained models
+*.pkl
+*.joblib
+*.sav
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
